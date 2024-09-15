@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<customers>
+    <customer
+        fullname="George Washington"
+        address="The President's House"
+        city="New York"
+        state="NY"
+        phone="212-555-1212" />
+        
+    <customer
+        fullname="John Adams"
+        address="The White House"
+        city="Washington"
+        state="DC"
+        phone="202-555-1212" />
+        
+    <customer
+        fullname="Thomas Jefferson"
+        address="The White House"
+        city="Washington"
+        state="DC"
+        phone="202-555-1212" />
+</customers>

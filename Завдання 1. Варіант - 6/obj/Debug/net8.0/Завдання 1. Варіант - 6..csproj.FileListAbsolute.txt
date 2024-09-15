@@ -1,0 +1,14 @@
+C:\Users\kosty\OneDrive\Рабочий стол\Завдання 1. Варіант - 6\obj\Debug\net8.0\Завдання 1. Варіант - 6..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosty\OneDrive\Рабочий стол\Завдання 1. Варіант - 6\obj\Debug\net8.0\Завдання 1. Варіант - 6..AssemblyInfoInputs.cache
+C:\Users\kosty\OneDrive\Рабочий стол\Завдання 1. Варіант - 6\obj\Debug\net8.0\Завдання 1. Варіант - 6..AssemblyInfo.cs
+C:\Users\kosty\OneDrive\Рабочий стол\Завдання 1. Варіант - 6\obj\Debug\net8.0\Завдання 1. Варіант - 6..csproj.CoreCompileInputs.cache
+C:\Users\kosty\OneDrive\Рабочий стол\Завдання 1. Варіант - 6\bin\Debug\net8.0\Завдання 1. Варіант - 6..exe
+C:\Users\kosty\OneDrive\Рабочий стол\Завдання 1. Варіант - 6\bin\Debug\net8.0\Завдання 1. Варіант - 6..deps.json
+C:\Users\kosty\OneDrive\Рабочий стол\Завдання 1. Варіант - 6\bin\Debug\net8.0\Завдання 1. Варіант - 6..runtimeconfig.json
+C:\Users\kosty\OneDrive\Рабочий стол\Завдання 1. Варіант - 6\bin\Debug\net8.0\Завдання 1. Варіант - 6..dll
+C:\Users\kosty\OneDrive\Рабочий стол\Завдання 1. Варіант - 6\bin\Debug\net8.0\Завдання 1. Варіант - 6..pdb
+C:\Users\kosty\OneDrive\Рабочий стол\Завдання 1. Варіант - 6\obj\Debug\net8.0\Завдання 1. Варіант - 6..dll
+C:\Users\kosty\OneDrive\Рабочий стол\Завдання 1. Варіант - 6\obj\Debug\net8.0\refint\Завдання 1. Варіант - 6..dll
+C:\Users\kosty\OneDrive\Рабочий стол\Завдання 1. Варіант - 6\obj\Debug\net8.0\Завдання 1. Варіант - 6..pdb
+C:\Users\kosty\OneDrive\Рабочий стол\Завдання 1. Варіант - 6\obj\Debug\net8.0\Завдання 1. Варіант - 6..genruntimeconfig.cache
+C:\Users\kosty\OneDrive\Рабочий стол\Завдання 1. Варіант - 6\obj\Debug\net8.0\ref\Завдання 1. Варіант - 6..dll
